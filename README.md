@@ -10,4 +10,4 @@ Firebase was used for authorization and data storage
 - JS
 - HTML
 - CSS
-_ Firebase
+- Firebase
