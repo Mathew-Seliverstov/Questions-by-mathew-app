@@ -5,3 +5,9 @@ With this web application, you can ask a question and see what questions you hav
 Firebase was used for authorization and data storage
 
 [**Live demo**](https://my-app-podcast.web.app/)
+
+## Stack
+- JS
+- HTML
+- CSS
+_ Firebase
